@@ -4,8 +4,8 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>63</x>
-      <y>112</y>
+      <x>161</x>
+      <y>161</y>
       <w>168</w>
       <h>105</h>
     </coordinates>
@@ -24,8 +24,8 @@ IoTSystem
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>742</x>
-      <y>126</y>
+      <x>840</x>
+      <y>175</y>
       <w>98</w>
       <h>63</h>
     </coordinates>
@@ -40,8 +40,8 @@ Observer
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>399</x>
-      <y>105</y>
+      <x>497</x>
+      <y>154</y>
       <w>301</w>
       <h>112</h>
     </coordinates>
@@ -62,8 +62,8 @@ Sistema (Observer)
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>504</x>
-      <y>637</y>
+      <x>602</x>
+      <y>686</y>
       <w>98</w>
       <h>42</h>
     </coordinates>
@@ -77,8 +77,8 @@ CalcularStrategy
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>322</x>
-      <y>784</y>
+      <x>420</x>
+      <y>833</y>
       <w>119</w>
       <h>42</h>
     </coordinates>
@@ -92,8 +92,8 @@ Media_DesviacionStrategy
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>728</x>
-      <y>777</y>
+      <x>826</x>
+      <y>826</y>
       <w>98</w>
       <h>42</h>
     </coordinates>
@@ -107,8 +107,8 @@ MaxMinStrategy
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>70</x>
-      <y>560</y>
+      <x>168</x>
+      <y>609</y>
       <w>182</w>
       <h>84</h>
     </coordinates>
@@ -126,8 +126,8 @@ observers:list
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>504</x>
-      <y>518</y>
+      <x>602</x>
+      <y>567</y>
       <w>147</w>
       <h>49</h>
     </coordinates>
@@ -141,8 +141,8 @@ EstadisticosHandler
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>665</x>
-      <y>518</y>
+      <x>763</x>
+      <y>567</y>
       <w>140</w>
       <h>49</h>
     </coordinates>
@@ -158,8 +158,8 @@ IncrementoHandler
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>847</x>
-      <y>518</y>
+      <x>945</x>
+      <y>567</y>
       <w>119</w>
       <h>49</h>
     </coordinates>
@@ -175,8 +175,8 @@ UmbralHandler
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>70</x>
-      <y>357</y>
+      <x>168</x>
+      <y>406</y>
       <w>182</w>
       <h>98</h>
     </coordinates>
@@ -196,8 +196,8 @@ SensorTemperatura(Observable)
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>224</x>
-      <y>161</y>
+      <x>322</x>
+      <y>210</y>
       <w>189</w>
       <h>21</h>
     </coordinates>
@@ -207,8 +207,8 @@ SensorTemperatura(Observable)
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>693</x>
-      <y>154</y>
+      <x>791</x>
+      <y>203</y>
       <w>63</w>
       <h>21</h>
     </coordinates>
@@ -218,8 +218,8 @@ SensorTemperatura(Observable)
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>245</x>
-      <y>210</y>
+      <x>343</x>
+      <y>259</y>
       <w>231</w>
       <h>245</h>
     </coordinates>
@@ -229,8 +229,8 @@ SensorTemperatura(Observable)
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>147</x>
-      <y>210</y>
+      <x>245</x>
+      <y>259</y>
       <w>21</w>
       <h>161</h>
     </coordinates>
@@ -240,8 +240,8 @@ SensorTemperatura(Observable)
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>140</x>
-      <y>448</y>
+      <x>238</x>
+      <y>497</y>
       <w>21</w>
       <h>126</h>
     </coordinates>
@@ -251,8 +251,8 @@ SensorTemperatura(Observable)
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>644</x>
-      <y>350</y>
+      <x>742</x>
+      <y>399</y>
       <w>168</w>
       <h>70</h>
     </coordinates>
@@ -268,8 +268,8 @@ Handler
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>511</x>
-      <y>210</y>
+      <x>609</x>
+      <y>259</y>
       <w>147</w>
       <h>203</h>
     </coordinates>
@@ -279,8 +279,8 @@ Handler
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>707</x>
-      <y>413</y>
+      <x>805</x>
+      <y>462</y>
       <w>210</w>
       <h>119</h>
     </coordinates>
@@ -290,8 +290,8 @@ Handler
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>707</x>
-      <y>462</y>
+      <x>805</x>
+      <y>511</y>
       <w>21</w>
       <h>70</h>
     </coordinates>
@@ -301,8 +301,8 @@ Handler
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>546</x>
-      <y>455</y>
+      <x>644</x>
+      <y>504</y>
       <w>182</w>
       <h>77</h>
     </coordinates>
@@ -312,8 +312,8 @@ Handler
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>539</x>
-      <y>560</y>
+      <x>637</x>
+      <y>609</y>
       <w>21</w>
       <h>91</h>
     </coordinates>
@@ -323,8 +323,8 @@ Handler
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>553</x>
-      <y>672</y>
+      <x>651</x>
+      <y>721</y>
       <w>231</w>
       <h>119</h>
     </coordinates>
@@ -334,8 +334,8 @@ Handler
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>553</x>
-      <y>721</y>
+      <x>651</x>
+      <y>770</y>
       <w>21</w>
       <h>70</h>
     </coordinates>
@@ -345,8 +345,8 @@ Handler
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>364</x>
-      <y>714</y>
+      <x>462</x>
+      <y>763</y>
       <w>210</w>
       <h>84</h>
     </coordinates>
@@ -356,8 +356,8 @@ Handler
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>525</x>
-      <y>777</y>
+      <x>623</x>
+      <y>826</y>
       <w>98</w>
       <h>42</h>
     </coordinates>
@@ -371,8 +371,8 @@ CuantilStrategy
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>721</x>
-      <y>315</y>
+      <x>819</x>
+      <y>364</y>
       <w>154</w>
       <h>91</h>
     </coordinates>
@@ -383,13 +383,37 @@ Handler</panel_attributes>
   <element>
     <id>UMLNote</id>
     <coordinates>
-      <x>420</x>
-      <y>21</y>
+      <x>518</x>
+      <y>70</y>
       <w>161</w>
       <h>21</h>
     </coordinates>
     <panel_attributes>      DIAGRAMA DE CLASES
 bg=green</panel_attributes>
     <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>217</x>
+      <y>77</y>
+      <w>70</w>
+      <h>21</h>
+    </coordinates>
+    <panel_attributes>Cliente
+bg=orange</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>245</x>
+      <y>91</y>
+      <w>21</w>
+      <h>84</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+</panel_attributes>
+    <additional_attributes>10.0;100.0;10.0;10.0</additional_attributes>
   </element>
 </diagram>
